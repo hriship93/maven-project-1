@@ -1,1 +1,1 @@
-Added Sonarqube for Code Analysis.
+Creating CI CD Pipeline again.
