@@ -1,1 +1,1 @@
-Jenkins is the best CI tool.
+CI CD with Jenkins.
