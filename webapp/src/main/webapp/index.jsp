@@ -1,1 +1,1 @@
-CI CD with Jenkins.
+CI CD with Jenkins and Code Analysis with Sonar Qube.
