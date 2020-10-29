@@ -1,1 +1,1 @@
-CI CD with Jenkins and Code Analysis with Sonar Qube and Deployment wtih Tomcat.
+Today is 29OCt20.
